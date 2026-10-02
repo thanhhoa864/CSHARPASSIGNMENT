@@ -1,2 +1,2 @@
-# CSHARPASSIGNMENT
-A five-member team working with the C# programming language on a project focused on bakery system management.
+Họ Tên: Bùi Thọ Khánh Trình      MSSV: 3124411322
+Họ Tên: Lê Chí Nghĩa             MSSV:
